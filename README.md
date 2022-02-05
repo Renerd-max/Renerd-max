@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Renerd-max
 - 👀 I’m interested in webapp development and data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any eb development problem using python
+- 💞️ I’m looking to collaborate on any WEb development problem using python
 - 📫 How to reach me "maritine600@gmail.com"
 
 <!---
