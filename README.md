@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Renerd-max
-- 👀 I’m interested in webapp development and data science
+- 👀 I’m interested in weapp and web3 development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any Web development problem using python, django, and javascript.
+- 💞️ I’m looking to collaborate on any Web or web3 development problem using python, javascripot, or php.
 - 📫 How to reach me "maritine600@gmail.com"
 
 <!---
