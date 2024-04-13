@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Renerd-max
-- 👀 I’m interested in weapp and web3 development
+- 👀 I’m interested in web app and web3 development
 - 🌱 I’m currently building something cool
 - 💞️ I’m looking to collaborate on any Web or web3 development problem using python, javascripot, or php.
 - 📫 How to reach me "maritine600@gmail.com"
